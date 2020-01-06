@@ -1,0 +1,39 @@
+body, html {
+    height: 100%;
+    font-family: "Lato", sans-serif;
+    
+}
+
+
+
+.img1 {
+    background-image: url(../images/space3.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+.img2 {
+    background-image: url(../images/Space2.jpg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+.bar1 {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #b7cbd6;
+}
+
+.navbar {
+    background-color: #ff000000 !important;
+}
+
